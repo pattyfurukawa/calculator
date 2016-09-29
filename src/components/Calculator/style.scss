@@ -1,0 +1,26 @@
+.calculator {
+    width: 240px;
+    height: 390px;
+    background-color: white;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: #000000;
+}
+
+.res {
+    background-color: #000000;
+    color: #FFFFFF;
+    width: 240px;
+    height: 45px;
+    text-align: right;
+    font-size: 24px;
+}
+
+.hist {
+    background-color: #000000;
+    color: #FFFAFA;
+    width: 240px;
+    height: 45px;
+    text-align: right;
+    font-size: 20px;
+}
