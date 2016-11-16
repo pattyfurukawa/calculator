@@ -1,7 +1,7 @@
 var React = require('react');
 var ReactDOM = require('react-dom');
 
-import Calculator from './components/Calculator';
+import Calculator from 'src/components/Calculator';
 
 function App() {
   return (
